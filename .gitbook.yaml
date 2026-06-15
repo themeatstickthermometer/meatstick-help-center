@@ -1,59 +1,27 @@
-# GitBook config — redirects (regenerated for the 2026-06-10 product-first structure).
-# Maps every prior page path (original + interim intent-first) to its final home.
+# GitBook config -- redirects from the original live help-center URLs to the
+# 2026-06-15 product-first structure. Keys = old URL path (no .md); values =
+# target file (with .md). Rebuilt from the pre-import backup manifest.
 
 redirects:
-  accessories/placing-the-stick-on-the-base.md: cooking-and-care/placing-the-stick-on-the-base.md
-  accessories/v-charge-stack.md: v-core/charge-stack.md
-  accessories/v-duo-smart-base.md: v-duo/duo-base.md
-  accessories/v-smart-base.md: v-prime/smart-base.md
-  accessories/v-wifi-hub.md: v-forge/wifi-hub.md
-  buying/README.md: buying-and-warranty/README.md
-  buying/add-on-probes.md: v-forge/adding-more-sticks.md
-  buying/replacement-parts.md: buying-and-warranty/replacement-parts.md
-  buying/v-forge-vs-v-prime.md: buying-and-warranty/v-forge-vs-v-prime.md
-  buying/warranty-and-returns.md: buying-and-warranty/warranty-and-returns.md
-  buying/what-makes-the-v-forge-different.md: v-forge/what-makes-it-different.md
-  buying/whats-in-the-box/v-core-set.md: v-core/whats-in-the-box.md
-  buying/whats-in-the-box/v-duo-set.md: v-duo/whats-in-the-box.md
-  buying/whats-in-the-box/v-forge-set.md: v-forge/whats-in-the-box.md
-  buying/whats-in-the-box/v-prime-set.md: v-prime/whats-in-the-box.md
-  buying/which-v-set-is-right-for-me.md: buying-and-warranty/which-v-set-is-right-for-me.md
-  maintenance/calibration-and-accuracy.md: cooking-and-care/calibration-and-accuracy.md
-  maintenance/cleaning-the-wired-ambient-probe.md: v-forge/cleaning-the-wired-ambient-probe.md
-  maintenance/cleaning-your-stick.md: cooking-and-care/cleaning-your-stick.md
-  maintenance/sensor-accuracy.md: cooking-and-care/sensor-accuracy.md
   master: README.md
-  product-support/meatstick-v: README.md
-  product-support/meatstick-v-forge: v-forge/README.md
-  product-support/meatstick-v-forge/cleaning-the-wired-ambient: v-forge/cleaning-the-wired-ambient-probe.md
-  product-support/meatstick-v-forge/expanding-with-core-sets: v-forge/adding-more-sticks.md
-  product-support/meatstick-v-forge/forge-vs-prime: buying-and-warranty/v-forge-vs-v-prime.md
-  product-support/meatstick-v-forge/how-to-set-up-the-forge: v-forge/set-up.md
-  product-support/meatstick-v-forge/what-is-the-forge: v-forge/what-makes-it-different.md
-  product-support/meatstick-v-forge/whats-in-the-box: v-forge/whats-in-the-box.md
-  product-support/meatstick-v-forge/wifi-hub: v-forge/wifi-hub.md
-  product-support/meatstick-v-forge/wired-ambient-probe: v-forge/wired-ambient-probe.md
+  product-support: README.md
+  product-support/meatstick-v: which-meatstick-do-i-have.md
   product-support/meatstick-v/accuracy: cooking-and-care/sensor-accuracy.md
   product-support/meatstick-v/audible-alerts: v-prime/smart-base.md
   product-support/meatstick-v/base-not-working: troubleshooting/base-or-hub-not-working.md
   product-support/meatstick-v/compatibility: cooking-and-care/wifi-band-compatibility.md
   product-support/meatstick-v/do-i-need-to-setup-the-wifi-each-time: cooking-and-care/do-i-set-up-wifi-each-time.md
-  product-support/meatstick-v/extend-range: troubleshooting/range-and-connection-drops.md
-  product-support/meatstick-v/how-do-i-turn-off: v-prime/set-up.md
-  product-support/meatstick-v/how-long-does-it-need-to-be-charged: cooking-and-care/battery-and-charging.md
+  product-support/meatstick-v/extend-range: v-prime/smart-base.md
+  product-support/meatstick-v/how-do-i-turn-off: v-prime/smart-base.md
+  product-support/meatstick-v/how-long-does-it-need-to-be-charged: legacy/README.md
   product-support/meatstick-v/how-to-charge: cooking-and-care/battery-and-charging.md
-  product-support/meatstick-v/how-to-charge-base: v-prime/smart-base.md
+  product-support/meatstick-v/how-to-charge-base: cooking-and-care/battery-and-charging.md
   product-support/meatstick-v/how-to-place: cooking-and-care/placing-the-stick-on-the-base.md
   product-support/meatstick-v/how-to-setup: v-prime/set-up.md
   product-support/meatstick-v/how-to-turn-on-the-smart-base: v-prime/smart-base.md
   product-support/meatstick-v/i-cant-find: troubleshooting/stick-wont-connect.md
-  product-support/meatstick-v/optimize-my-base-range: v-prime/smart-base.md
+  product-support/meatstick-v/optimize-my-base-range: troubleshooting/range-and-connection-drops.md
   product-support/meatstick-v/smart-base-led-indicator: v-prime/smart-base.md
-  product-support/meatstick-v/v-core-charger: v-core/charge-stack.md
-  product-support/meatstick-v/v-core-set: v-core/set-up.md
-  product-support/meatstick-v/v-core-whats-in-box: v-core/whats-in-the-box.md
-  product-support/meatstick-v/v-duo-whats-in-box: v-duo/whats-in-the-box.md
-  product-support/meatstick-v/v-prime-whats-in-box: v-prime/whats-in-the-box.md
   product-support/the-chargers-and-xtender: legacy/chargers-and-xtender/README.md
   product-support/the-chargers-and-xtender/can-i-use-rechargeable-batteries: legacy/chargers-and-xtender/can-i-use-rechargeable-batteries.md
   product-support/the-chargers-and-xtender/how-does-the-xtender-work: legacy/chargers-and-xtender/how-does-the-xtender-work.md
@@ -93,13 +61,11 @@ redirects:
   product-support/the-meatstick-faq/how-do-i-optimize-my-sticks-range: troubleshooting/range-and-connection-drops.md
   product-support/the-meatstick-faq/how-do-i-update-the-firmware: troubleshooting/firmware-updates.md
   product-support/the-meatstick-faq/how-should-i-store-my-stick: cooking-and-care/storing-between-cooks.md
-  product-support/the-meatstick-faq/how-to-insert-the-stick-into-your-meat: cooking-and-care/inserting-the-stick.md
-  product-support/the-meatstick-faq/how-to-rename-or-delete-a-stick: app/how-can-i-delete-past-cooks-and-end-cook.md
+  product-support/the-meatstick-faq/how-to-rename-or-delete-a-stick: app/registering-and-naming-your-stick.md
   product-support/the-meatstick-faq/maintenance: cooking-and-care/cleaning-your-stick.md
   product-support/the-meatstick-faq/my-meatstick-or-mini-appears-in-the-app-but-doesnt-show-any-temperature: troubleshooting/stick-wont-connect.md
   product-support/the-meatstick-faq/temperature-off: troubleshooting/temperature-looks-wrong.md
   product-support/the-meatstick-faq/untitled: cooking-and-care/inserting-the-stick.md
-  product-support/the-meatstick-faq/warranty-and-returns: buying-and-warranty/warranty-and-returns.md
   product-support/the-meatstick-faq/why-dont-i-see-ambient-temperature-before-cooking-starts: troubleshooting/why-no-ambient-before-cooking.md
   product-support/true-wireless-meat-thermometer-stick: legacy/meatstick-and-mini/README.md
   product-support/true-wireless-meat-thermometer-stick-4-and-chef: legacy/meatstick-4-and-chef/README.md
@@ -143,19 +109,3 @@ redirects:
   product-support/wifi-bridge/what-are-the-meanings-of-the-audible-visual-alerts: legacy/wifi-bridge/what-are-the-meanings-of-the-audible-visual-alerts.md
   product-support/wifi-bridge/why-my-bridge-still-shows-the-temperature-when-i-ended-cook-on-app: legacy/wifi-bridge/why-my-bridge-still-shows-the-temperature-when-i-ended-cook-on-app.md
   product-support/wifi-bridge/wifi-bridge-set-up-tutorial: legacy/wifi-bridge/wifi-bridge-set-up-tutorial.md
-  start-here/set-up-your-v-core.md: v-core/set-up.md
-  start-here/set-up-your-v-duo.md: v-duo/set-up.md
-  start-here/set-up-your-v-forge.md: v-forge/set-up.md
-  start-here/set-up-your-v-prime.md: v-prime/set-up.md
-  start-here/which-meatstick-do-i-have.md: which-meatstick-do-i-have.md
-  using-your-meatstick/README.md: cooking-and-care/README.md
-  using-your-meatstick/battery-and-charging.md: cooking-and-care/battery-and-charging.md
-  using-your-meatstick/consecutive-cooks.md: cooking-and-care/consecutive-cooks.md
-  using-your-meatstick/do-i-set-up-wifi-each-time.md: cooking-and-care/do-i-set-up-wifi-each-time.md
-  using-your-meatstick/inserting-the-stick.md: cooking-and-care/inserting-the-stick.md
-  using-your-meatstick/is-my-stick-charging.md: cooking-and-care/is-my-stick-charging.md
-  using-your-meatstick/multi-probe-cooking.md: cooking-and-care/multi-probe-cooking.md
-  using-your-meatstick/storing-between-cooks.md: cooking-and-care/storing-between-cooks.md
-  using-your-meatstick/using-the-wired-ambient-probe.md: v-forge/wired-ambient-probe.md
-  using-your-meatstick/wifi-band-compatibility.md: cooking-and-care/wifi-band-compatibility.md
-  using-your-meatstick/wifi-cloud-monitoring.md: cooking-and-care/wifi-cloud-monitoring.md
