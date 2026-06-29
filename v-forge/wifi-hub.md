@@ -24,7 +24,7 @@ The Hub uses one button — the same as the V Smart Base:
 * **Press and hold about 5 seconds** — puts it in **pairing mode** (the light fast-flashes white/blue) so the app can set up WiFi or run a firmware update.
 * **Press and hold 15–30 seconds** — factory-resets the Hub (clears WiFi and settings).
 
-> Plug the **Wired Ambient Probe** into the Hub's side port and its reading becomes the ambient temperature for **every** cook on the Hub — even a V Prime Stick. See [Using the Wired Ambient Probe](wired-ambient-probe.md).
+> Plug the **Wired Ambient Probe** into the Hub's side port to add a grate-level ambient reading to your cook — it's what gives the V Forge Set's Core Stick its pit temperature. See [Using the Wired Ambient Probe](wired-ambient-probe.md).
 
 ## Connecting to WiFi
 

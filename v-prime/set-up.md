@@ -34,7 +34,7 @@ Push the Stick into the thickest part of the meat, up to the line on the steel s
 
 ## 6. Relax and monitor
 
-Temperature streams to your phone in real time, and the app alerts you when the meat hits your target. Keep the Smart Base within about 6 feet of the Stick for a solid signal — once it has the signal, it relays the cook over WiFi so you can step away.
+Temperature streams to your phone in real time, and the app alerts you when the meat hits your target. Keep the Smart Base within about 6 feet of the Stick for a solid signal. To watch your cook from anywhere, connect the Smart Base to WiFi once — see [Monitoring your cook over WiFi](../cooking-and-care/wifi-cloud-monitoring.md).
 
 ## 7. Rest, then clean
 

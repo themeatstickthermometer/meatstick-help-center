@@ -12,9 +12,9 @@ The Wired Ambient Probe is the thin stainless probe on a 1 m cable that ships wi
 
 ## What it does
 
-The Stick in your meat tracks **internal temperature** with 5 sensors along its length. The Wired Ambient Probe tracks **ambient (pit/oven) temperature** independently. Together they give you a complete picture of what's happening on the cook without either measurement interfering with the other.
+Your V Forge Set's Stick has **5 internal sensors** to track the temperature inside your meat — but no sensor for the air around it. The Wired Ambient Probe fills that gap: clipped at grate level, it reads your **pit/oven temperature** so you can watch the heat your meat is actually cooking in.
 
-**With the Wired Ambient Probe plugged into the WiFi Hub, it supplies the ambient temperature for every cook on that Hub — including a V Prime Stick.** The grate-level reading takes over from a Stick's built-in ambient sensor, because a probe buried in cold meat reads the pit slower and lower than a sensor right at the grate. So whenever the wired probe is in, you're getting true grate-level pit temperature.
+Because it sits right at the grate — not buried in cold meat — it tracks true pit temperature and reacts to lid-opens and fire changes faster than an in-meat sensor could.
 
 ## Where to clip it
 
@@ -31,7 +31,11 @@ A small grate clip is the easiest mounting solution; many BBQ supply shops sell 
 
 ## How to plug it in
 
-Find the small square port on one short end of your WiFi Hub. The connector on the Wired Ambient Probe seats into that port. There's no separate power switch — the Hub powers the probe, and ambient temperature appears in the MeatStick App as soon as the probe is plugged in.
+Find the small square port on one short end of your WiFi Hub. The connector on the Wired Ambient Probe seats into that port. There's no separate power switch — the Hub powers the probe whenever it's plugged in.
+
+## Seeing it in the app
+
+The grate reading shows up **inside an active cook**, not before one. Once you start a cook, the ambient (cooking-temperature) reading on the cook screen is fed from the Wired Ambient Probe — that's where you watch your pit temp, and it's what the ambient high/low alerts and the cook-time estimate run on. With no cook started, or the probe unplugged, the cook shows internal temps only.
 
 ## Temperature range and accuracy
 

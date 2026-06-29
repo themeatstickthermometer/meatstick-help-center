@@ -14,18 +14,16 @@ title: "What is WiFi Link and why is it important?"
 WiFi Link is a feature in The MeatStick App (available in iOS 14 and later) that extends the range of your MeatStick by connecting it to the internet. This gives you complete flexibility and control, allowing you to monitor your cooking progress from any distance.
 
 **How WiFi Link Works:**\
-Normally, The MeatStick has a range of about 33 ft (10 m) in open-air. However, this range can be reduced by obstacles like walls or radio interference. WiFi Link helps you overcome these limitations by using an additional smart device to transmit data from your MeatStick to The MeatStick Cloud.
-
-With WiFi Link, you can monitor your cooking progress even if you're far from the cooking area.
+On its own, a Stick only reaches your phone over Bluetooth from a short distance — and walls or a closed grill cut that down further. WiFi Link gets around this by using a second nearby device to relay your cook up to The MeatStick Cloud. Once it's in the Cloud, you can check on your cook from anywhere on your own phone.
 
 **Setting Up WiFi Link:**
 
-To use WiFi Link effectively, follow these steps:
+To use WiFi Link, follow these steps:
 
-1. Get a second smart device with internet access.
+1. Get a second smart device with internet access (WiFi or cellular).
 2. Download The MeatStick App on both devices.
-3. Log in to the same user account on both devices.
-4. Place the second device within 3 ft (1 m) of The MeatStick.
+3. Log in to the same account on both devices.
+4. Keep the second device near the Stick — within about 6 ft works for most setups. If your connection keeps dropping, move it as close to the Stick as you can (just keep it off the grill and away from hot surfaces).
 
 Using WiFi Link makes it easier to keep track of your cooking, no matter where you are.
 

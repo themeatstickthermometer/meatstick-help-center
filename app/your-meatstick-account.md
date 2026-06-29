@@ -10,9 +10,7 @@ title: "Your MeatStick account"
 
 ## Do you even need one?
 
-You can cook with just the app and Bluetooth — **no account required** for everyday use. An account unlocks the **cloud features**: your cook history syncs across your devices, and you can **check a cook from anywhere** over the internet.
-
-(Sharing a live cook to another phone on the *same* WiFi — WiFi Link — works without an account. Full cloud and remote monitoring need one. See [Monitoring your cook over WiFi](../cooking-and-care/wifi-cloud-monitoring.md).)
+You can cook with just the app and Bluetooth — **no account required** for everyday use. An account unlocks the **cloud features**: your cook history syncs across your devices, and you can **check a cook from anywhere** over the internet — including when you use a second device (WiFi Link) to relay a cook up to the Cloud. See [Monitoring your cook over WiFi](../cooking-and-care/wifi-cloud-monitoring.md).
 
 ## Create an account or sign in
 
