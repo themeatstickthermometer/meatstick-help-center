@@ -12,18 +12,14 @@ title: "My base or hub isn't working"
 
 
 
-If ever the Smart Base seems to freeze up, you will need to power reset the Base.
+If your Smart Base, Duo Base, or WiFi Hub freezes up or stops responding, a power reset usually clears it. This just restarts the device (like rebooting a computer) — it does **not** erase your WiFi or any other settings.
 
-Power resetting the Base just lets it restart (like rebooting your computer) it will not reset any settings (ie WiFi etc)
+1. **Find the reset button.** Look for the tiny hole on the side of the base and press the button inside it with a SIM-ejector tool or a paperclip.
+2. **Watch the LED.** It cycles through its colors to confirm the reset worked.
 
-To do this, please do the following.
+> The **V Duo Base** and **V WiFi Hub** reset exactly the same way.
 
-1. **Locate and Press the Reset Button**:
-   * Find the tiny reset button in the side hole of the Base. Use a SIM ejector tool or similar object to press it.
-2. **LED Indicator**:
-   * The LED will cycle through the color, indicating a successful power reset.
-
-> These steps cover the **V Smart Base**. The **V Duo Base** and **V WiFi Hub** reset the same way — a tiny reset button in a side hole; press it with a SIM-ejector tool until the LED cycles through its colors.
+> **V Duo Base — first-batch note:** on some early Duo Base units, pressing reset can leave it not booting back up. If that happens, plug the Duo Base into USB power and press the reset button again — it'll start up normally.
 
 ***
 

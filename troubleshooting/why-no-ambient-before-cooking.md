@@ -8,12 +8,11 @@ title: "Why Don\u2019t I See Ambient Temperature Before Cooking Starts?"
 
 # Why Don’t I See Ambient Temperature Before Cooking Starts?
 
-This is normal behavior.
+This is normal.
 
-\
-The ambient temperature only appears once the Stick recognizes that it’s in a stable cooking environment. Before your cook starts, the temperature around the Stick can fluctuate or be too similar across the length of the Stick, which prevents accurate readings.
+Your Stick's ambient sensor only starts showing a reading once it's in a stable cooking environment. Before the cook gets going, the temperature along the Stick is still settling — too even, or fluctuating — so the app holds off rather than show an unreliable number.
 
-Once the cook begins and the Stick detects consistent heat, the ambient temperature will appear automatically in the app.
+Once your cook is underway and the Stick detects steady heat, the ambient temperature appears on its own.
 
 ***
 

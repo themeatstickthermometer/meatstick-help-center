@@ -8,53 +8,32 @@ title: "Why are my Stick's temperatures off? How do I test accuracy?"
 
 # Why are my Stick's temperatures off? How do I test accuracy?
 
-_**Why are my Stick's temperatures off?**_
+Before assuming your Stick is inaccurate, it helps to know that meat and cooking environments are uneven by nature — so a reading that looks "off" is often correct.
 
-**Internal Temperature:** \
-Different parts of a piece of meat will have different temperatures during cooking. It is not uncommon for the internal temperature of a large roast or turkey to vary by as much as 15 to 25 °F throughout the meat or bird. Even a steak or a boneless chicken breast can vary in temperature by several degrees depending on how the Stick is inserted.
+## Internal temperature
 
-To get a correct reading, insert the Stick into the thickest part of the meat from the side. Try to avoid obvious bones or cartilage.
+Different parts of the same cut sit at different temperatures while cooking. A large roast or turkey can vary by 15–25 °F across the meat, and even a steak or chicken breast can differ by several degrees depending on how the Stick is inserted.
 
-**Ambient Temperature:** \
-Although the ambient temperature may seem off at first glance, it's actually working correctly because it measures the temperature directly around the meat, which tends to be lower than the other points of a cooking appliance. It also depends on the placement of the Stick: directly above the meat, the temperature will be lower than on the side of the meat over the heat source. The Stick will show the actual cooking temperature compared to the temperature reading of the appliance you are cooking on (once it reaches temperature).
+For the most accurate reading, insert the Stick into the **thickest part** of the meat from the side, avoiding bone and cartilage.
 
-Also, note that grills/ovens/smokers all have cold spots that can be as much as 50-75 degrees lower than what is being measured.
+## Ambient temperature
 
-If you want to test the accuracy, feel free to do an ice water test. However, we recommend that your Smart Base, WiFi Hub, Xtender, or WiFi Bridge is active at that time, as the signals get blocked very easily by water.
+The ambient reading measures the air right around the meat, which is usually cooler than what your grill or oven dial shows. Placement matters too — directly above the meat reads lower than out to the side over the heat source. The Stick shows the *actual* temperature where your food is cooking, which is what you want.
 
-## **Testing Calibration Accuracy**
+Most grills, ovens, and smokers also have cold spots that can run 50–75 °F below the set temperature.
 
-In general, the two ways of testing accuracy are an ice water bath test and a rolling boil test. We recommend against a rolling boil test as that will put extra strain on the battery of the Stick and may damage the Stick if done incorrectly if the temperature exceeds the maximum internal temperature.&#x20;
+## Testing accuracy: the ice-water bath
 
-**\*WARNING READ THIS\***&#x20;
+The simplest way to check any thermometer is a properly made ice bath. Done carefully it holds 32 °F (±3 °F); done carelessly it can read several degrees high — a cup of ice water alone can sit 24 °F too warm.
 
-_Doing the test requires a lot of patience. The way the Stick works is that it will broadcast the signal when there is a temp change. However, because the way the test needs to be done (holding the handle or submerging the Stick) your hand/utensil holding the Stick or water does interfere with the normal broadcasting of the temperature. As such, when the temp changes the signal may be lost and you will not see the updated temperature which may appear to be off. To mitigate that, please hold your phone next to the Stick when testing or right above it and/or use your Smart Base, WiFi Hub, Xtender, or WiFi Bridge next to it to receive the signal (They're more sensitive to the signal than your phone) If it gets near but not quite at the temperature, most likely the signal was lost and we recommend you take it out of the water for a few seconds (you'll see temp jump a bit) then repeat. In actual cooking, the signal will not be blocked by your hand or extra interference near the antenna so this is not an issue._&#x20;
+> **Signal tip:** while testing, your hand or the water can block the Stick's signal, so a temperature change may not show right away and the reading can look stuck. Keep your phone right next to the Stick — or set a Smart Base, WiFi Hub, Xtender, or WiFi Bridge beside it, since those pick up the signal better than a phone. If it gets close but not quite to temperature, the signal was likely lost: lift the Stick out for a few seconds (you'll see the temp jump), then try again. This only happens during the test — normal cooking doesn't block the antenna this way.
 
-**Ice Water Bath Test**
+1. **Fill with ice.** Pack a vessel to the top with ice — crushed is best, but cubed works fine.
+2. **Add water.** Slowly fill the gaps to about ½" below the top of the ice. Let it settle a minute or two. If the ice floats up off the bottom, pour off some water and add more ice (water below the ice won't be at 32 °F).
+3. **Insert the Stick.** Create a cook in the app, then stir the Stick through the vertical center of the slurry — don't let it rest against an ice cube, the side, or the bottom of the vessel.
+4. **Read it.** Your Stick should show 32 °F (±3 °F). A reading around 35–36 °F usually means the ice bath wasn't quite right.
 
-The easiest way to test the accuracy of any thermometer is in a properly made ice bath. If you do this carefully, your ice bath will be 32 °F within ± 3 °F. If you are not careful, the ice bath can be off by several whole degrees. (Just a cup with ice water in it can be 24 or more degrees too high.)&#x20;
-
-**Step One**: Fill with ice
-
-Making a proper ice bath is all about keeping a proper ice-to-water ratio. Fill a vessel all the way to the top with ice. Crushed ice is preferred because there are fewer gaps between the ice, however cubed ice will also work fine.&#x20;
-
-**Step Two**: Add Water
-
-Slowly add water to fill the spaces between the ice. Fill about 1/2" below the top of the ice. Let the mixture sit for a minute or two to allow the temperature of the water to settle. If you see the ice starting to float off the bottom of the vessel, pour off some water and add more ice. Water below the ice will not be at 32 °F.&#x20;
-
-**Step Three**: Insert the Stick
-
-Once the mixture has rested for a minute or two, create a cook in the App, insert the Stick into the mixture and stir in the vertical center of the ice slurry. Stirring the Stick keeps the sensor from resting against an ice cube, which will affect your reading. Keep the Stick away from the side walls and don't allow it to rest against the bottom of the vessel. Doing so will give you inaccurate temperature readings. Stirring equilibrates the temperature throughout the vessel.&#x20;
-
-**Step Four**: Confirm Temperature
-
-Your Stick should read 32 °F ± 3 °F in the ice bath. (In general, if the ice water bath isn't done right, it may show up around 35 °F /36 °F) &#x20;
-
-
-
-Rolling Boil Test:
-
-**Do not do this test. Putting the Stick in boiling water will put excess strain on its battery and will reduce its capacity and may damage the Stick if done incorrectly if the temperature exceeds the maximum internal temperature.**&#x20;
+> **Skip the boiling-water test.** It puts excess strain on the Stick's battery and can damage the Stick if its maximum temperature is exceeded.
 
 ***
 

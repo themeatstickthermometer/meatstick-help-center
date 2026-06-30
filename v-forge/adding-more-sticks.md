@@ -50,4 +50,4 @@ Every V Core Set ships with **three colored silicone rings** (yellow, blue, red)
 
 ## Maximum Sticks per Hub
 
-The WiFi Hub supports the full Forge bundle counts — up to 4 Sticks visible simultaneously in the app. Beyond that, you'd be running multiple Hubs, which is supported but uncommon for home cooks.
+The Forge bundles ship with up to 4 Sticks, but a single WiFi Hub can actually monitor **up to 8 Sticks at once**. So you can keep adding V Core Sets — all the way to 8 Sticks on one Hub — before you'd ever need a second Hub. (Running more than one Hub is supported, just uncommon for home cooks.)
