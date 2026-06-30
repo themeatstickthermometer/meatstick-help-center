@@ -11,7 +11,7 @@ title: "What's in the V Core Set box?"
 | Item | What it does |
 |---|---|
 | **MeatStick V Core Stick** | The wireless Stick that goes in the meat. 5 internal temperature sensors, 50+ hour battery life, 1200°F ceramic handle, Bluetooth 5. No built-in ambient sensor (by design). |
-| **MeatStick V stackable charger** | USB-C-powered cradle. Charges the Stick; locks together end-to-end with other V Core chargers if you add more Sticks later. No Bluetooth, no WiFi. |
+| **MeatStick V Charge Stack** | USB-C-powered stackable charger. Charges the Stick; locks together end-to-end with other V Charge Stacks if you add more Sticks later. No Bluetooth, no WiFi. |
 | **3 colored silicone ID rings** | Yellow, blue, red. Slip onto the Stick's handle to tell Sticks apart when you're running more than one. Assign the matching color in the MeatStick App. |
 | **USB-C charging cable** | Standard USB-C — works with any USB-C power adapter. |
 | **Quick-start guide** | Printed setup instructions. |

@@ -17,8 +17,7 @@ The MeatStick App monitors **up to 8 Sticks** at the same time. Activate each St
 The number a single base or hub relays depends on the hardware:
 
 * **V Duo Smart Base** holds and charges 2 Sticks and shows both on its LCD.
-* **V WiFi Hub** (Forge) manages the full Forge bundle — up to 4 Sticks.
-* Beyond those, you can add more Sticks paired directly to your phone, up to the app's limit of 8.
+* **V WiFi Hub** (Forge) relays up to 8 Sticks — the Forge bundles ship with up to 4, but a single Hub handles the full 8.
 
 ## Telling your Sticks apart — color rings
 

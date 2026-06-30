@@ -16,7 +16,7 @@ When you place your stick on the charger and press the button, the indicator lig
 **Checking the Stick's Battery Status:**\
 To confirm the charging process, refer to your app. A stick icon with a battery and lightning bolt will be displayed, indicating ongoing charging.
 
-Simply open the app wen you're charging the Stick. When you see your Stick in the app, simply observe the battery icon on the app to see the battery level of the Stick. (Lightning bolt symbol indicates that the Stick is charging)
+Simply open the app when you're charging the Stick. When you see your Stick in the app, simply observe the battery icon on the app to see the battery level of the Stick. (Lightning bolt symbol indicates that the Stick is charging)
 
 <figure><img src="https://480337956-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mg4Jg9fo_8jMW0As7z7%2Fuploads%2FBwJYOA36PsbB9eiqHbAE%2FBattery%20level.jpeg?alt=media&#x26;token=a80670ab-c78b-4107-8424-e7ff07f30863" alt="" width="375"><figcaption><p>Battery charging icon</p></figcaption></figure>
 

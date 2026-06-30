@@ -8,7 +8,7 @@ title: "What do the Advanced Settings mean?"
 
 # What do the Advanced Settings mean?
 
-The MeatStick App offers three Advanced Settings, each serving a specific purpose:
+The MeatStick App's Advanced Settings each serve a specific purpose:
 
 **Demo Mode:** \
 Enabling Demo Mode ensures that cooks created by an account are exclusively editable by the owner of that account. This mode is designed for demonstrations, allowing others to follow a cook on their own devices without modifying the cook settings.

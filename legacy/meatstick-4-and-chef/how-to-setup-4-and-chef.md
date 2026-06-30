@@ -27,5 +27,3 @@ title: "How to set up my Stick?"
 
 If you have any further questions or need additional assistance, don't hesitate to reach out to our support team at [https://tms.fyi/help](https://tms.fyi/help). Happy cooking with The MeatStick!
 
-\[Tutorial Video TBA]
-

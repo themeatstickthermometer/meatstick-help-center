@@ -20,5 +20,3 @@ You have two convenient options to activate Xtender mode on your WiFi Bridge:
 
 1. **Press the Button:** If your Bridge is not connected to WiFi, simply press the button on the Bridge.
 2. **Immediate Activation:** This action will immediately activate Xtender mode, enhancing signal amplification.
-
-\[Tutorial Video TBA]

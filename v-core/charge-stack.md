@@ -3,12 +3,12 @@ gitbook_id: NEW-v-core-charger
 gitbook_path: product-support/meatstick-v/v-core-charger
 gitbook_slug: v-core-charger
 gitbook_updated: 2026-05-22T00:00:00.000Z
-title: "Using the V Core stackable charger"
+title: "Using the V Charge Stack"
 ---
 
-# Using the V Core stackable charger
+# Using the V Charge Stack
 
-The V Core stackable charger is the slim USB-C-powered cradle that ships with every V Core Set. It charges your Stick — no Bluetooth, no WiFi, no display. The clever bit is the stacking.
+The V Charge Stack is the slim USB-C-powered stackable charger that ships with every V Core Set. It charges your Stick — no Bluetooth, no WiFi, no display. The clever bit is the stacking.
 
 ## How stacking works
 

@@ -20,5 +20,3 @@ Ensure that the gap between two consecutive cooks remains within 15 minutes. Thi
 
 **Adjusting Cook Settings:**\
 Should you wish to modify cook settings for the next session, the app enables easy editing of cook details.
-
-\[Tutorial Video TBA]
