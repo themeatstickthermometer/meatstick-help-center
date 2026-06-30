@@ -18,6 +18,9 @@ The warranty does not cover:
 * Damage from unauthorized modifications or repairs
 * Normal cosmetic wear (handle scratches, surface discoloration from regular cooking heat)
 * Loss or theft
+* Products bought through closeout, clearance, liquidation, overstock, or daily-deal channels, or from any unauthorized reseller. Warranty applies to products bought new from themeatstick.com or an authorized MeatStick retailer or dealer (including Amazon when sold by The MeatStick); if you're unsure whether your product is covered, contact support with your proof of purchase.
+
+For the complete warranty terms — including coverage period, regional scope, and limitations — see our full [Warranty Policy](https://themeatstick.com/pages/warranty).
 
 ## Returns
 
